@@ -7,7 +7,7 @@
     "update-plugins": "node changelog/bin/update.js plugins ./changelog/src/plugins ./changelog/sdks/plugins/highlights.mdx "
   },
   "devDependencies": {
-    "open": "^10.1.0",
+    "open": "^10.2.0",
     "prettier": "^3.4.2"
   }
 }
